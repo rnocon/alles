@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nocon\\Desktop\\Test\\testi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|c:\\users\\nocon\\desktop\\test\\testi\\testi\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|solutionrelative:testi\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|c:\\users\\nocon\\desktop\\test\\testi\\testi\\views\\homeview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|solutionrelative:testi\\views\\homeview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|c:\\users\\nocon\\desktop\\test\\testi\\testi\\views\\loginview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|solutionrelative:testi\\views\\loginview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|c:\\users\\nocon\\desktop\\test\\testi\\testi\\views\\homeview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|solutionrelative:testi\\views\\homeview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|c:\\users\\nocon\\desktop\\test\\testi\\testi\\views\\loginview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|solutionrelative:testi\\views\\loginview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|c:\\users\\nocon\\desktop\\test\\testi\\testi\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|solutionrelative:testi\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|c:\\users\\nocon\\desktop\\test\\testi\\testi\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|solutionrelative:testi\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|c:\\users\\nocon\\desktop\\test\\testi\\testi\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A4B2AE-9CBB-4A7F-BF7C-EDF4A36CFEB0}|testi\\testi.csproj|solutionrelative:testi\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\Views\\LoginView.axaml.cs",
+              "RelativeDocumentMoniker": "testi\\Views\\LoginView.axaml.cs",
+              "ToolTip": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\Views\\LoginView.axaml.cs",
+              "RelativeToolTip": "testi\\Views\\LoginView.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:13:54.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "testi\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "testi\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:50:46.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "testi\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "testi\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:50:28.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\App.axaml",
+              "RelativeDocumentMoniker": "testi\\App.axaml",
+              "ToolTip": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\App.axaml",
+              "RelativeToolTip": "testi\\App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T22:48:23.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeView.axaml",
+              "DocumentMoniker": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\Views\\HomeView.axaml",
+              "RelativeDocumentMoniker": "testi\\Views\\HomeView.axaml",
+              "ToolTip": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\Views\\HomeView.axaml",
+              "RelativeToolTip": "testi\\Views\\HomeView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T22:43:44.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\Views\\HomeView.axaml.cs",
+              "RelativeDocumentMoniker": "testi\\Views\\HomeView.axaml.cs",
+              "ToolTip": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\Views\\HomeView.axaml.cs",
+              "RelativeToolTip": "testi\\Views\\HomeView.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:43:44.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginView.axaml",
+              "DocumentMoniker": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\Views\\LoginView.axaml",
+              "RelativeDocumentMoniker": "testi\\Views\\LoginView.axaml",
+              "ToolTip": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\Views\\LoginView.axaml",
+              "RelativeToolTip": "testi\\Views\\LoginView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T22:43:31.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "testi\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\nocon\\Desktop\\Test\\testi\\testi\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "testi\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:43:09.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
